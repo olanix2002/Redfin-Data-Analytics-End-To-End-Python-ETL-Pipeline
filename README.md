@@ -6,7 +6,7 @@ This project involves creating an **end-to-end ETL (Extract, Transform, Load)** 
 
 ### Architectural Diagram
 
-![Project Architecture](./assets/architectural%20diagram.jpg)
+![Data Architecture Diagram](./assets/data_architecture_diagram.jpg)
 
 The architecture includes the following components:
 
